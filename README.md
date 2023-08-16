@@ -5,9 +5,8 @@ Code and data repo for ICCV 2023 paper Cloth2Body
 # Pipeline
 <figure>
     <img src="./assets/pipeline.png" alt="pipeline">
-    <figcaption 
-    style="text-align: center"> 
-    Pipeline 
+    <figcaption style="text-align: center"> 
+    Pipeline of Cloth2Body
     </figcaption>
 </figure>
 
